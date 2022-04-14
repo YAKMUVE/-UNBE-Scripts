@@ -1,2 +1,2 @@
 [VERSION]
-build = 0.1 BETA
+build = 0.1
